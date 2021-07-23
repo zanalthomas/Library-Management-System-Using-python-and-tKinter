@@ -1,0 +1,12 @@
+Library Management System-Sanal Thomas
+-------------------------------------
+
+Additional libraries used:
+  mysql.connector
+  tKinter
+
+Database is designed using mysql
+use 
+username:admin
+password:admin123
+to login
